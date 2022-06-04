@@ -1,1 +1,1 @@
-Welcome, I'm a blue team member and i post on this blog my personal DFIR and Reverse works.
+Welcome, I'm a blue team member and i post on this blog my personal DFIR and Reverse Engineering works.

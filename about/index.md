@@ -6,4 +6,4 @@ date: 2016-03-21
 comments: false
 ---
     
-Hello, You can check "Post" page.
+Hello, You can check "Posts" page.
